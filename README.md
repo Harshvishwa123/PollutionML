@@ -1,8 +1,14 @@
 # 🌍 Pollution Control ML Analysis
 
 A complete machine learning project for analyzing **air and water quality data** using multiple regression models. This project utilizes datasets from [Kaggle](https://www.kaggle.com/) to predict **Air Quality Index (AQI)** and analyze **Water Quality parameters**. The goal is to identify key pollutants affecting environmental health and evaluate model performance for effective pollution control measures.
+## 🔗 Live Demo
+
+🟢 Access the project overview here:  
+👉 **[Earth Watch Pollution](https://earth-watch-pollution.lovable.app)**
+
 
 ---
+
 
 ## 📁 Datasets Used
 
