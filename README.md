@@ -4,6 +4,7 @@ A complete machine learning project for analyzing **air and water quality data**
 ## 🔗 Live Demo
 
 🟢 Access the project overview here:  
+👉 **[LIVE LINK](https://preview--hydroguard-ai.lovable.app/)**
 👉 **[Earth Watch Pollution](https://earth-watch-pollution.lovable.app)**
 
 
